@@ -7,8 +7,8 @@ A dataset("SuperStore.csv") is given , use that and perform the multivariate ope
 
 ### Program:
 ```
-Developed by : SANJAY S
-Reg no : 212222230132
+Developed by : dhanesh M
+Reg no : 212220220009
 ```
 import pandas as pd 
 import seaborn as sns
